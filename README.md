@@ -1,2 +1,2 @@
 # Beginning
-Getting a habg of Github
+Getting a hang of Github
