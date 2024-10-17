@@ -1,2 +1,2 @@
 # Beginning
-Getting a hang of Github
+Getting a hang of Github!
